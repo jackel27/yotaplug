@@ -100,7 +100,7 @@
                 <p>Bulma / Bootstrap comparison</p>
               </div>
             </a> -->
-          
+           <router-link :to="{ path: '/blog/09-07-2017' }">
             <a class="navbar-item" href="">
               <div class="navbar-content">
                 <p>
@@ -109,6 +109,7 @@
                 <p>Let's start the build!</p>
               </div>
             </a>
+           </router-link>
           
           <a class="navbar-item" href="">
             More posts
