@@ -48,15 +48,21 @@
           About
         </a>
         <div class="navbar-dropdown ">
+        <router-link :to="{ path: '/ProjectDescription' }">
           <a class="navbar-item " href="">
             Project Description
           </a>
+          </router-link>
+          <router-link :to="{ path: '/ProjectSpecifics' }">
           <a class="navbar-item " href="">
             Project Specifics
           </a>
+          </router-link>
+          <router-link :to="{ path: '/ProjectOutcome' }">
           <a class="navbar-item " href="">
             Project Outcome
           </a>
+          </router-link>
           
   <!--           <a class="navbar-item is-active" href="http://bulma.io/documentation/components/breadcrumb/">
               Components
@@ -110,10 +116,11 @@
               </div>
             </a>
            </router-link>
-          
+          <router-link :to="{ path: '/blog/MorePosts' }">
           <a class="navbar-item" href="">
             More posts
           </a>
+          </router-link>
           <hr class="navbar-divider">
           <div class="navbar-item">
             <div class="navbar-content">
@@ -146,13 +153,15 @@
           <a class="navbar-item " href="http://bulma.io/extensions/">
             <div class="level is-mobile">
               <div class="level-left">
-                <div class="level-item">
-                  <p>
-                    <strong>Timeline</strong>
-                    <br>
-                    <small>See current progress and what's next to come &nbsp</small>
-                  </p>
-                </div>
+                <router-link :to="{ path: '/Timeline' }">
+                  <div class="level-item">
+                    <p>
+                      <strong>Timeline</strong>
+                      <br>
+                      <small>See current progress and what's next to come &nbsp</small>
+                    </p>
+                  </div>
+                </router-link>
               </div>
               <div class="level-right">
                 <div class="level-item">
@@ -166,13 +175,15 @@
           <a class="navbar-item " href="http://bulma.io/extensions/">
             <div class="level is-mobile">
               <div class="level-left">
-                <div class="level-item">
-                  <p>
-                    <strong>Parts List</strong>
-                    <br>
-                    <small>What we got, what we need, and what we want  &nbsp</small>
-                  </p>
-                </div>
+                <router-link :to="{ path: '/Partslist' }">
+                  <div class="level-item">
+                    <p>
+                      <strong>Parts List</strong>
+                      <br>
+                      <small>What we got, what we need, and what we want  &nbsp</small>
+                    </p>
+                  </div>
+                </router-link>
               </div>
               <div class="level-right">
                 <div class="level-item">
