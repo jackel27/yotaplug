@@ -67,17 +67,17 @@
           </table>
           </p>
           <p>
-          As you see, it's not the rarest of the series, but we really don't care about that. Purchasing this vehicle was basically for the engine and a few other things we will need. We will definately use the radiator. We need the linkage. We are not sure about the power steering pump so we are taking it anyways. We need to make sure we take everything we need out of it before we send it off to the scrapper.</p>
+          It's not the rarest of the series, but we really don't care about that. Purchasing this vehicle was for the engine and a few other things we will need. We will definately use the radiator. We need the linkage. We are not sure about the power steering pump so we are taking it anyways. We need to make sure we take everything we need out of it before we send it off to the scrapper. I might take the cool old-school first-aid kit in the compartment by the rear-windshield.. It may have value for having all original bandages etc... </p>
           <br>
           <p>
-          Without further adue, here are a few pictures...
+          Here are a few pictures and video of the purchase
       
 
 
       <blockquote class="instagram-media" data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BYv4g1Nh-ei/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by David Kaiser (@yotaplug)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-09-07T17:27:50+00:00">Sep 7, 2017 at 10:27am PDT</time></p></div></blockquote>
 
       <br>
-      We did chop off the Exhaust right before the CAT. Pressure washed the engine a bit, opened up the Turbo and took it for a spin. The tranny was not having it... Engine sounds very good. I am very happy with this purchase to continue on with the build. 
+      We did chop off the Exhaust right before the CAT. Pressure washed the engine a bit, opened up the Turbo and took it for a spin. The tranny was not having it... Engine sounds very good. I am very happy with this purchase to continue on with the build. Next step, grab a <strong> Cherry Picker </strong> and the <strong>`95 4Runner! </strong> 
 
           </p>
         </div>
